@@ -4,9 +4,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description=fh.read()
 
 setuptools.setup(
-    name="notcod",
+    name="notethcod",
     version="0.0.1",
-    author="NotCod",
+    author="notcod",
     author_email="nostupar@gmail.com",
     description="A light weight ethereum private key and address generator",
     long_description=long_description,
