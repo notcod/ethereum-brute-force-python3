@@ -1,6 +1,6 @@
 from random import randrange
 from time import time
-from notcod import Generator
+from . import Generator
 
 try:
     from web3.auto.infura import w3
